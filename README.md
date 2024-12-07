@@ -11,6 +11,7 @@ I’m currently working on an app that analyzes the nutritional composition of p
 - **Email:** [noyakunyushkin@gmail.com](mailto\:noyakunyushkin@gmail.com)
 - **Telegram:** [t.me/ynikt](https://t.me/ynikt)
 
-📄 Resume
+## 📄 Resume
 You can view my resume [here](https://drive.google.com/file/d/1oNXuL1dH0AMG2hzqxDgZ9TZcbuawP34p/view?usp=sharing).
+
 🌟 Open to new opportunities and collaborations.
